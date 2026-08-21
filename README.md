@@ -7,6 +7,8 @@
 
 Este repo es el punto de entrada al portfolio: reúne y explica, en un solo sitio, proyectos que en GitHub viven como repos independientes (cada uno con su propio historial de commits, CI y README técnico). El objetivo es que cualquiera — en particular alguien de RRHH sin tiempo para bucear en 6 repos — pueda ver de un vistazo qué se ha construido, con qué stack, y cómo se trabajó.
 
+**📖 [Léelo capítulo a capítulo →](docs/chapters/00-indice.md)** — un capítulo por proyecto, con captura de pantalla real, situación actual, bugs encontrados y pasos para probarlo. La tabla de abajo es el resumen rápido; los capítulos son el detalle.
+
 ---
 
 ## 📋 Tabla resumen / Summary table
